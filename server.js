@@ -32,7 +32,6 @@ app.get('/',(req,res) => {
       },
     ]
   })
-
 });
 } 
 makeRequest();
